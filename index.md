@@ -11,4 +11,4 @@ Syntax highlighted code block
 1. RepositoryName - Short Description
 ```
 
-#[about author](..\about\about.html)
+[about author](./about/about.html)
