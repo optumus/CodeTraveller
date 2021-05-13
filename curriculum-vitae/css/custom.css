@@ -36,7 +36,7 @@ a:hover {
     text-align: center; } }
 .typed-cursor {
   opacity: 1;
-  font-weight: 100;
+  font-weight: 50;
   -webkit-animation: blink 0.7s infinite;
   -moz-animation: blink 0.7s infinite;
   -ms-animation: blink 0.7s infinite;
@@ -137,7 +137,13 @@ a:hover {
   .skills .skill-list li:first-child {
     font-size: 0.9375em;
     color: #8c8c8c; }
-
+	
+.education .education-list {
+  margin-left: 0px; }
+  .education .education-list li:first-child {
+    font-size: 0.9375em;
+    color: #8c8c8c; }
+	
 .quote {
   background: url(../img/bg.jpg);
   padding: 20px 0px;
