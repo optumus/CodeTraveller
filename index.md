@@ -12,3 +12,4 @@ Syntax highlighted code block
 ```
 
 [about author](./about/about.html)
+[curriculum-vitae](./curriculum-vitae/index.md)
